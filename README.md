@@ -136,22 +136,6 @@ This graph represents the fundamental diagram of traffic flow showing:
 - MATLAB plotting and simulation
 
 ---
-
-## 📂 Repository Structure
-
-Traffic-Flow-Balance/
-│
-├── traffic_flow_matrix_model.m
-├── README.md
-
----
-
-## 🎯 Conclusion
-
-Traffic flow at road junctions can be effectively modeled using matrix-based conservation principles.  
-Nonlinear congestion modeling enhances realism, while kinetic theory explains the density-flow relationship.  
-Numerical methods allow simulation of dynamic traffic behavior.
-
 ⸻
 
 ->How to Run the Project
@@ -171,3 +155,20 @@ Rasesh J. Nair
 Computational Engineering Laboratory Project
 
 ⸻
+
+## 📂 Repository Structure
+
+Traffic-Flow-Balance-at-Road-Junctions/
+│
+├── Traffic_Flow_Final.m
+├── README.md
+
+---
+
+## 🎯 Conclusion
+
+Traffic flow at road junctions can be effectively modeled using matrix-based conservation principles.  
+Nonlinear congestion modeling enhances realism, while kinetic theory explains the density-flow relationship.  
+Numerical methods allow simulation of dynamic traffic behavior.
+
+
