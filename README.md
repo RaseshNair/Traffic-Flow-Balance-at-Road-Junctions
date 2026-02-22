@@ -151,3 +151,23 @@ Traffic-Flow-Balance/
 Traffic flow at road junctions can be effectively modeled using matrix-based conservation principles.  
 Nonlinear congestion modeling enhances realism, while kinetic theory explains the density-flow relationship.  
 Numerical methods allow simulation of dynamic traffic behavior.
+
+⸻
+
+->How to Run the Project
+	1.	Open MATLAB
+	2.	Copy the provided .m script
+	3.	Run the file
+	4.	Observe the resulta
+
+⸻
+
+⸻
+
+Author
+
+Rasesh J. Nair 
+3rd year Mechanical Engineering Student
+Computational Engineering Laboratory Project
+
+⸻
