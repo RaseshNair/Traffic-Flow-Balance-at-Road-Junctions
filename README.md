@@ -142,7 +142,7 @@ This graph represents the fundamental diagram of traffic flow showing:
 	1.	Open MATLAB
 	2.	Copy the provided .m script
 	3.	Run the file
-	4.	Observe the resulta
+	4.	Observe the results
 
 ⸻
 
